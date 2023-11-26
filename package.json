@@ -1,7 +1,65 @@
-{
-    "dependencies": {
-    "@react-navigation/native": "^6.1.9",
-    "@react-navigation/stack": "^6.3.20",
-    "react-redux": "^8.1.3"
-  }
-}
+[
+    {
+      id: 0,
+      image:
+        "https://purepng.com/public/uploads/large/purepng.com-mobile-phone-with-touchmobilemobile-phonehandymobile-devicetouchscreenmobile-phone-device-231519333009ns2cr.png",
+      name: "Phone 1",
+      brand: "PUM",
+      price: "1000",
+      qty: 0,
+    },
+    {
+      id: 1,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zL1ejs7PTLdSmVqXAPweWYAmVRJfSsiXbQ&usqp=CAU",
+      name: "Phone 2",
+      brand: "KLL",
+      price: "1500",
+      qty: 0,
+    },
+    {
+      id: 2,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViqYQTkCGlWaoY-6ix_19vKQ092F5EDF7OXi-aAsV0LTM0DGAeMxsRjxe1QxZ7idSp7g&usqp=CAU",
+      name: "Phone 3",
+      brand: "PPo",
+      price: "1200",
+      qty: 0,
+    },
+    {
+      id: 3,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFWxHuUkaeCR3TPBXv15tiwk1CylmAQVSDQ&usqp=CAU",
+      name: "Phone 4",
+      brand: "FFS",
+      price: "1300",
+      qty: 0,
+    },
+    {
+      id: 4,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGeCWhhCB2lx9fUK6geW2pH_sdwiROzJrWA&usqp=CAU",
+      name: "Phone 5",
+      brand: "EER",
+      price: "1100",
+      qty: 0,
+    },
+    {
+      id: 5,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOsM2evUE2INQ_-62vLmN6pGhaIVPvvJkqw&usqp=CAU",
+      name: "Phone 6",
+      brand: "WWE",
+      price: "1600",
+      qty: 0,
+    },
+    {
+      id: 6,
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfptjYmka6coVWAXsTuDeykdzwqGfVKFNRA&usqp=CAU",
+      name: "Phone 7",
+      brand: "TRY",
+      price: "1400",
+      qty: 0,
+    },
+  ]
